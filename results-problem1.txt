@@ -1,0 +1,7 @@
+Servant | # presents | # thank-yous
+1		101051		 101051
+2		129540		 129540
+3		131170		 131170
+4		138239		 138239
+
+Total presents: 500000
